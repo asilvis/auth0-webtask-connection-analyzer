@@ -1,7 +1,9 @@
 {
-  "name": "$name$",
-  "version": "$version$",
+  "name": "auth0-connections-analyser",
+  "version": "1.0.0",
   "dependencies": {
-    $END$
+    "auth0": "^2.13.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2"
   }
 }
