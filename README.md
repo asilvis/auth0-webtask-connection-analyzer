@@ -1,8 +1,8 @@
 # Analyze Auth0 Connection Providers on WebTask
 
-Basically this module is supposed to analyze your account connections and see what is being used and what is not.
+Basically this module objective is to analyze your account connections and see what is being used and what is not.
 
-There is two services:
+There are two services:
 * analyze-connection
    * **Arguments** clientId, clientSecret, identity and domain
    * **Returns** stats with identity, total users, users active this year, month and week.
